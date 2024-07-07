@@ -1,2 +1,2 @@
 # aqua-navigator
-Remote control water boat navigation system 
+Remote controlled water boat navigation system 
